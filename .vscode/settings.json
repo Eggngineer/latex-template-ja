@@ -75,6 +75,8 @@
         "*.fls",
         "*.toc",
         "*.bcf",
+        "*.dvi",
+        "*.synctex.gz",
         //"*.log",
         //"*/*.log"
     ],
